@@ -5,7 +5,7 @@
 ### About me
 Java Web Developer with 2 years of experience in Java and Spring Framework.
 Currently a third-year student of Computer Science in Engineering. Passionate about building web applications. 
-More about me on my [LinkedIn](https://www.linkedin.com/in/patryk-janas-5b4b3b1b3/).
+More about me on my [LinkedIn](https://www.linkedin.com/in/patrykjanas27/).
 ### My linkedin 
 >https://www.linkedin.com/in/patrykjanas27/
 
